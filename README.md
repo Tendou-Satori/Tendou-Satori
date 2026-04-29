@@ -1,10 +1,10 @@
-#<h1 align="center">Hi 👋, ich bin Tendou (Majo)</h1>
+#<h1 align="center">Hi 👋, ich bin Majo (Just Majo)</h1>
 <h3 align="center">Ich spiele total gerne Volleyball und programmiere total gerne</h3>
 
 - 🌱 Ich lerne gerade erst Programmieren, bin also noch Anfänger.**
 
 - 📝 I sometimes write codes in my notebook LOL 
-- ⚡ Fun Fact: **Ich liebe den Anime Haikyuu und komme aus Deutschland.**
+- ⚡ Fun Fact: **ich komme aus Deutschland.**
 
 <h3 align="left">Verbinde dich mit mir:</h3>
 <p align="left">
